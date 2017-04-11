@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","file":"app.js","sourcesContent":["new Vue({\n    el: '#appPhone',\n\n    ready: function() {\n        alert('ok')\n    }\n});"],"sourceRoot":"/source/"}
